@@ -30,12 +30,12 @@ I focus on **data modeling, Power BI, data warehousing/lakehousing, and end-to-e
 
 | Project | Description |
 |---|---|
-| [Data_modeling_sales_PowerBI](https://github.com/Matt-60/Data_modeling_sales_PowerBI) | End-to-end Power BI data modeling — turning a 23-table "nightmare" dataset into a clean star schema with junk & role-playing dimensions, accumulating snapshot & factless facts, and RLS |
-| [Financial_Performance_Analysis_PowerBI](https://github.com/Matt-60/Financial_Performance_Analysis_PowerBI) | Financial KPI dashboard (Gross Margin, Contribution Margin, EBITDA) comparing Actual vs PY vs Budget across YTD/quarterly/monthly views |
-| [Hotel-Bookings_E2E_Data_Lakehouse_Project_Fabric](https://github.com/Matt-60/Hotel-Bookings_E2E_Data_Lakehouse_Project_Fabric) | Microsoft Fabric Medallion pipeline (Bronze→Silver→Gold) with Dataflow Gen2, Direct Lake semantic model, and a daily automated orchestration pipeline |
-| [Airbnb_ELT_Data-Warehouse_DBT-Snowflake](https://github.com/Matt-60/Airbnb_ELT_Data-Warehouse_DBT-Snowflake) | ELT warehouse on Snowflake with dbt — Medallion layers, SCD Type 2 dimensions via dbt snapshots, and automated data quality tests |
-| [Adventure-worksLT_Data_Lakehouse_Fabric](https://github.com/Matt-60/Adventure-worksLT_Data_Lakehouse_Fabric) | Fabric Lakehouse on AdventureWorksLT — Medallion architecture, star schema, data quality investigation (header vs. detail totals), and DAX measures |
-| [Data_Warehouse_project_SQL-server](https://github.com/Matt-60/Data_Warehouse_project_SQL-server) | SQL Server data warehouse consolidating ERP & CRM sources through Bronze/Silver/Gold layers into an analytics-ready star schema |
+| [powerbi-sales-star-schema](https://github.com/Matt-60/Data_modeling_sales_PowerBI) | End-to-end Power BI data modeling — turning a 23-table "nightmare" dataset into a clean star schema with junk & role-playing dimensions, accumulating snapshot & factless facts, and RLS |
+| [powerbi-financial-performance](https://github.com/Matt-60/Financial_Performance_Analysis_PowerBI) | Financial KPI dashboard (Gross Margin, Contribution Margin, EBITDA) comparing Actual vs PY vs Budget across YTD/quarterly/monthly views |
+| [hotel-bookings-lakehouse-fabric](https://github.com/Matt-60/Hotel-Bookings_E2E_Data_Lakehouse_Project_Fabric) | Microsoft Fabric Medallion pipeline (Bronze→Silver→Gold) with Dataflow Gen2, Direct Lake semantic model, and a daily automated orchestration pipeline |
+| [airbnb-dbt-snowflake-warehouse](https://github.com/Matt-60/Airbnb_ELT_Data-Warehouse_DBT-Snowflake) | ELT warehouse on Snowflake with dbt — Medallion layers, SCD Type 2 dimensions via dbt snapshots, and automated data quality tests |
+| [adventureworks-lakehouse-fabric](https://github.com/Matt-60/Adventure-worksLT_Data_Lakehouse_Fabric) | Fabric Lakehouse on AdventureWorksLT — Medallion architecture, star schema, data quality investigation (header vs. detail totals), and DAX measures |
+| [sql-server-erp-crm-warehouse](https://github.com/Matt-60/Data_Warehouse_project_SQL-server) | SQL Server data warehouse consolidating ERP & CRM sources through Bronze/Silver/Gold layers into an analytics-ready star schema |
 
 *(Check out my pinned repos above for full details, screenshots, and data model diagrams.)*
 
