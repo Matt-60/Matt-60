@@ -30,6 +30,7 @@ I focus on **data modeling, Power BI, data warehousing/lakehousing, and end-to-e
 
 | Project | Description |
 |---|---|
+| [databricks-medallion-warehouse](https://github.com/Matt-60/databricks-medallion-warehouse) | Databricks Medallion pipeline (Bronze/Silver/Gold) on Delta Lake — watermark-driven incremental loading, deduplication, SCD Type 1 dimensions, and a Databricks Jobs orchestration with conditional branching for first-run vs. incremental loads |
 | [airbnb-dbt-snowflake-warehouse](https://github.com/Matt-60/airbnb-dbt-snowflake-warehouse) | ELT warehouse — Azure ADLS Gen2 → Snowflake (watermark ingestion) → dbt (Bronze/Silver/Gold), SCD Type 2 dimensions, layer-specific data quality tests, and documented debugging of real issues (dedup, join-fanout fixes) |
 | [hotel-bookings-lakehouse-fabric](https://github.com/Matt-60/hotel-bookings-lakehouse-fabric) | Microsoft Fabric Medallion pipeline with metadata-driven ingestion (Lookup + ForEach), Dataflow Gen2 transformations, Direct Lake semantic model, and full daily automated orchestration |
 | [adventureworks-lakehouse-fabric](https://github.com/Matt-60/adventureworks-lakehouse-fabric) | Fabric Lakehouse on AdventureWorksLT — watermark-driven incremental pipeline, PySpark notebook transformations, star schema, and a documented data quality investigation (header vs. detail totals) |
