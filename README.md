@@ -40,6 +40,10 @@ I focus on **data modeling, Power BI, data warehousing/lakehousing, and end-to-e
 
 *(Check out my pinned repos above for full details, screenshots, and data model diagrams.)*
 
+### 🏅 Certifications
+ 
+[![DP-600](https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Analytics%20Engineer%20Associate%20(DP--600)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MateuszKowalczyk-5724/7E82B3ADC10FD77A?sharingId=CB3EDC36F90DAE0)
+
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-kowalczyk-3a8a00330/)
